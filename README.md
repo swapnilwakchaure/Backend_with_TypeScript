@@ -5,7 +5,7 @@ Design the data structure and build a RESTful API which Event create app related
 
 
 * The deployed backend api url
-``
+`https://backend-with-type-script.vercel.app`
 
 
 ## Events Home Page
